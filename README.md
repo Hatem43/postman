@@ -10,4 +10,4 @@ full guide for all API requests implementaion using Postman
 
 4- PATCH 
 
-5- DElETE
+5- DELETE
