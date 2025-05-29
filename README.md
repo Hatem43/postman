@@ -1,6 +1,6 @@
 # postman
 
-full guide for all API requests implementaion using Postman 
+full guide for all API requests implementation using Postman 
 
 1- GET 
 
