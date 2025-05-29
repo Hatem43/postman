@@ -1,6 +1,6 @@
 # postman
 
-full guide for all postman requests [1- tests,2- cookies, 3- authorization]
+full guide for all API requests implementaion using Postman 
 
 1- GET 
 
